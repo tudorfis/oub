@@ -1,0 +1,4 @@
+.idea
+node_modules
+app/lib
+app/assets/css/app.css
